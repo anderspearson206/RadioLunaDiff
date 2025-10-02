@@ -1,0 +1,6 @@
+torch
+diffusers
+torchvision
+matplotlib
+scikit-image
+accelerate
