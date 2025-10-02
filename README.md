@@ -19,8 +19,8 @@ NOTE: This repository is not complete.
 ## Installation
 
 ```bash
-git clone https://github.com/anderspearson206/lunadiff.git
-cd lunanet
+git clone https://github.com/anderspearson206/RadioLunaDiff.git
+cd RadioLunaDiff
 pip install -r requirements.txt
 ```
 Note: PyTorch installation may differ based on your machine, please refer to [PyTorch Installation Guide](https://pytorch.org/get-started/locally/)
